@@ -1,0 +1,24 @@
+{
+	"id": "cfd883f0-9232-4fc8-a7fb-18003d537e8d",
+	"name": "Salesforce REST",
+	"values": [
+		{
+			"key": "host",
+			"value": "[your salesforce instance host]",
+			"enabled": true
+		},
+		{
+			"key": "version",
+			"value": "[the salesforce api version]",
+			"enabled": true
+		},
+		{
+			"key": "postman_api_key",
+			"value": "[your postman api key]",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2020-01-07T00:20:04.711Z",
+	"_postman_exported_using": "Postman/7.14.0"
+}
